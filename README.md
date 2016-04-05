@@ -13,3 +13,10 @@ Keyboard:
 Left/Right arrows = Right stick
 k-key = A Button
 i-key = Y Button
+
+=====
+
+Asteroid by phaelax on OpenGameArt.Org
+Paddle ("trak2_trim4a") by Georges "TRaK" Grondin on OpenGameArt.Org
+"Meteor Junction" by Danny Morris (http://dannymobo.bandcamp.com/)
+Sound effects created at www.bfxr.net
