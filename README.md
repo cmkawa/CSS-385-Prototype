@@ -1,4 +1,4 @@
-# rando-commando
+# CSS-385-Prototype
 Author: Cary Kawamoto
 April 5, 2016
 
